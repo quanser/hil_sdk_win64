@@ -1,4 +1,4 @@
-HIL SDK 2019 SP1 (3.8.2862)
+HIL SDK 2019 SP1 (3.8.2866)
 -------------------------------
 
 Thank you for using HIL SDK 2019 SP1!
@@ -15,5 +15,5 @@ To uninstall HIL SDK on 64-bit Windows:
 - Uninstall via Windows Apps and Features.
 
 
-The full version of this product is 3.8.2862. The build date was 2019/10/28.
+The full version of this product is 3.8.2866. The build date was 2019/11/1.
 
