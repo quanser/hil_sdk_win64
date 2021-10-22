@@ -1,4 +1,4 @@
-Quanser HIL SDK 2021 (4.1.3390)
+Quanser HIL SDK 2021 SP1 (4.1.3580)
 -----------------------------------
 
 The Quanser HIL SDK for the 64-bit Microsoft Windows operating system, e.g., running on a PC. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C, .NET and MATLAB functions (API's) for accessing Quanser hardware (devices and data acquisition cards).
@@ -29,4 +29,4 @@ To uninstall the Quanser HIL SDK on 64-bit Windows:
 THIS IS BETA SOFTWARE. IF YOU ARE USING THIS SOFTWARE, WE WOULD APPRECIATE ANY FEEDBACK.
 
 
-The full version of this product is 4.1.3390. The build date was 2021/4/7.
+The full version of this product is 4.1.3580. The build date was 2021/10/14.
