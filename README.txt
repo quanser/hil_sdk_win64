@@ -1,5 +1,5 @@
-Quanser HIL SDK 2023 (4.3.4140)
------------------------------------
+[DEPRECATED] Quanser HIL SDK 2023 (4.3.4140)
+--------------------------------------------
 
 The Quanser HIL SDK for the 64-bit Microsoft Windows operating system, e.g., running on a PC. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C, .NET and MATLAB functions (API's) for accessing Quanser hardware (devices and data acquisition cards).
 
