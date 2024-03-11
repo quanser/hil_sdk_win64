@@ -1,10 +1,9 @@
-# PLEASE NOTE, THIS REPOSITORY IS NO LONGER BEING MAINTAINED. 
+# THIS REPOSITORY IS NO LONGER MAINTAINED
+Please refer to the [Quanser SDK for Windows](https://github.com/quanser/quanser_sdk_win64) repository, as a replacement, for Quanser's latest and up-to-date functionality. 
 
-# As a replacement, please refer to the [Quanser SDK for Windows](https://github.com/quanser/quanser_sdk_win64) for up-to-date functionality. 
 
-
-# [DEPRECATED] Quanser HIL SDK 2023 (4.3.4140)
-The Quanser HIL SDK for the 64-bit Microsoft Windows operating system, e.g., running on a PC. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C, .NET and MATLAB functions (API's) for accessing Quanser hardware (devices and data acquisition cards).
+# [DEPRECATED] 
+The Quanser HIL SDK 2023 (4.3.4140) for the 64-bit Microsoft Windows operating system, e.g., running on a PC. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C, .NET and MATLAB functions (API's) for accessing Quanser hardware (devices and data acquisition cards).
 
 The Quanser HIL SDK for the 64-bit Windows operating system provides access to the following devices and data acquisition cards:
 - Quanser Q2-USB
